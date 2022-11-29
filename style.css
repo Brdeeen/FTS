@@ -1,1 +1,10 @@
 /* CSS Style Sheet */
+body {
+  text-align: center;
+}
+hr {
+  width: 600px;
+}
+button {
+  margin-right: 500px;
+}
